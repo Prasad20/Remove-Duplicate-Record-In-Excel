@@ -144,7 +144,7 @@ map<string,int>::iterator it = m.begin();
    
    freopen("output.csv","w",stdout);				// output file name 
 
-   fp = fopen("in3.csv","r");						// input file name
+   fp = fopen("in.csv","r");						// input file name
    
    while(1)											// Run loop untill input file reaches to eof.		
     {
